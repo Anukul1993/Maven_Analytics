@@ -1,1 +1,1 @@
-[Maven_stores.pdf](https://github.com/user-attachments/files/21948290/Maven_stores.pdf)
+https://github.com/Anukul1993/Maven_Analytics/blob/7e9073ae4d87411923b4bd4aeaf29668f0cb4295/Maven_stores.pdf
